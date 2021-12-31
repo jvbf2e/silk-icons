@@ -1,0 +1,21 @@
+{
+  "name": "@jvbf2e/silk-icons-compiler",
+  "version": "1.0.0",
+  "description": "图标编译工具",
+  "main": "index.ts",
+  "module": "es/index.js",
+  "typings": "lib/index.d.ts",
+  "keywords": [],
+  "author": "Jvb",
+  "license": "MIT",
+  "scripts": {
+    "build": ""
+  },
+  "devDependencies": {
+    "@types/css-tree": "^1.0.7",
+    "@types/tinycolor2": "^1.4.3",
+    "css-tree": "^2.0.4",
+    "tinycolor2": "^1.4.2",
+    "xml-js": "^1.6.11"
+  }
+}
